@@ -4,7 +4,7 @@
 
 Generate the UTN FRCU's logo with your preferred colors.
 
-[valentincosta.com/utnator](https://valentincosta.com/utnator)
+[utnator.vercel.app](https://utnator.vercel.app)
 
 
 ## 📜 Description
